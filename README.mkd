@@ -1,0 +1,25 @@
+Solarized - mintty settings
+==========================
+
+This is a [Solarized][solarized] color scheme for [Mintty][mintty], contributed by [Karlin Fox][krf].
+
+See the [Solarized home page][solarized] for screenshots and more details,
+as well as color schemes for other applications. To contribute or file bug
+reports or issues, please visit [the GitHub repo for this port][mintty-repo],
+or the main [Solarized repository][solarized-repo].
+
+  [mintty]:         http://code.google.com/p/mintty/
+  [mintty-repo]:    https://github.com/bobthecow/mintty-colors-solarized
+  [krf]:            https://github.com/karlin
+  [solarized]:      http://ethanschoonover.com/solarized
+  [solarized-repo]: https://github.com/altercation/solarized
+
+Installation (mintty)
+--------------------
+
+Source one of the shell scripts in your environment. For example, you might put this in your .bashrc file:
+
+source ~/git/solarized/mintty-colors-solarized/mintty-solarized-dark.sh
+
+For more information about changing colors in mintty, see http://code.google.com/p/mintty/wiki/Tips#Changing_colours.
+
