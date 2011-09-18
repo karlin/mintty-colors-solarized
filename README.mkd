@@ -9,7 +9,7 @@ reports or issues, please visit [the GitHub repo for this port][mintty-repo],
 or the main [Solarized repository][solarized-repo].
 
   [mintty]:         http://code.google.com/p/mintty/
-  [mintty-repo]:    https://github.com/bobthecow/mintty-colors-solarized
+  [mintty-repo]:    https://github.com/karlin/mintty-colors-solarized
   [krf]:            https://github.com/karlin
   [solarized]:      http://ethanschoonover.com/solarized
   [solarized-repo]: https://github.com/altercation/solarized
